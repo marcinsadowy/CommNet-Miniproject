@@ -9,6 +9,8 @@
   copies or substantial portions of the Software.
 *********/
 
+// Eksempelfil jeg fandt til integration af ultrasonic sensor med ESP32, kan den måske bruges til ESP 8266?
+
 const int trigPin = 5;
 const int echoPin = 18;
 
