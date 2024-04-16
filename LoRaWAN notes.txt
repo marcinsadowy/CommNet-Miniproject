@@ -1,0 +1,13 @@
+Class A: Long lifetime, but high latency
+Class B: Scheduled signaling
+Class C: Continuous listening, lowest latency
+
+5-15 km range (urban/rural))
+
+Uses unslotted ALOHA
+
+10 channels
+
+up to 250B payload length
+
+0.3-37.5 kbps data rate
